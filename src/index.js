@@ -1,3 +1,5 @@
+import './styles/index.css';
+
 const Mobile={
     type:"Android",
     brand:"Samsung",
