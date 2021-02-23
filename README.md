@@ -1,5 +1,5 @@
 # webpack-project
-webpack project bundler setup in css, source-maps, React-jSX syntax, HTML, javascript.
+webpack project bundler configuration to bundle all css, source-maps, React-jSX syntax, HTML, javascript files in one bundle.
 A basic webpack project setup that gives the information about the setting up bundlers, css files ,source maps, react JSX syntax html and js in one bundle
 
 ## Installation
